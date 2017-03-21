@@ -20,8 +20,6 @@ $ node index.js
 
 ## Todo
 
-- fix bug of invisible typed text after exit (echo gets turned off)
-
 
 ### Legal
 Copyright (c) 2017 Charles A Moss
