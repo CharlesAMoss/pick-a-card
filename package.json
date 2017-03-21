@@ -9,7 +9,7 @@
   "author": "@charlesmoss",
   "license": "ISC",
   "dependencies": {
-    "syncprompt": "^1.0.2",
+    "syncprompt": "^1.0.3",
     "underscore": "^1.8.3"
   }
 }
